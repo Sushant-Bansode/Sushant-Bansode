@@ -1,8 +1,44 @@
 <h1 align="center">Hello World, 👋 I'm Sushant Bansode</h1>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
-</p>
-<h2 align="center">Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h2>
+<table style="width:100%">
+  <tr>
+    <td style="width:50%; text-align:center;">
+      <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="GIF" style="width:100%; object-fit: cover; height:300px;">
+    </td>
+    <td style="width:50%; text-align:center;">
+      <img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="GIF" style="width:100%; object-fit: cover; height:300px;">
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">I am Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h2>
+
+# 🌐 About Me:
+<table style="width:100%">
+  <tr>
+    <td style="width:50%;">
+      <p>
+        I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
+        I am Technology & Startup Enthusiast, and Usually Find Myself<br>
+        Excited to learn new things related to Technology & Programming.<br>
+        I am interested in Web & App Development,<br>
+        Sports Programming, learning New Programming Languages,<br>
+        Techstacks, & New Technologies and seeking exciting<br>
+        opportunities related to the same.<br>
+        I am also an Open-Source enthusiast.<br>
+        The skills that I have attained from the dynamic environment &<br>
+        Competitive university life define me, and I am looking forward to<br>
+        Implementing and polishing them in any opportunity that I receive.<br>
+        Feel free to go through my profile and approach me,<br>
+        If you need any help, will be glad to help you...<br><br>
+      </p>
+    </td>
+    <td style="width:50%; text-align:center;">
+      <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" alt="GIF" style="width:100%">
+    </td>
+      
+  </tr>
+</table>
+
 
 # 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sushantbansode) 
