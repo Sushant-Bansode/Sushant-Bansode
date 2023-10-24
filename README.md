@@ -18,7 +18,7 @@
     <td style="width:50%;">
       <p>
         I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
-        I am Technology & Startup Enthusiast.
+        I am Technology & Startup Enthusiast.<br>
         I am interested in Web & App Development,<br>
         Sports Programming, learning New Programming Languages,<br>
         Techstacks, & New Technologies and seeking exciting<br>
