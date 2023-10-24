@@ -17,7 +17,7 @@
   <tr>
     <td style="width:70%; padding-right: 20px;">
       <p>
-        • I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
+        • I am Currently Pursuing My B.Tech in Computer Engineering.<br>
         • I am Technology & Startup Enthusiast<br>
         • I am interested in Development,
           Sports Programming, learning New Programming<br>
