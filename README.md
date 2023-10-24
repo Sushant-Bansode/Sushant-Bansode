@@ -41,7 +41,23 @@
 
 
 # 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sushantbansode) 
+<p style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://linkedin.com/in/sushantbansode">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+    <a href="https://linkedin.com/in/sushantbansode">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+    <a href="https://linkedin.com/in/sushantbansode">
+        <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+    <a href="https://linkedin.com/in/sushantbansode">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+     <a href="https://linkedin.com/in/sushantbansode">
+        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="LinkedIn" style="width:80px; height:80px;">
+    </a>
+</p>
 
 # 💻 Tech Stack:
 <table align="center">
