@@ -17,17 +17,17 @@
   <tr>
     <td style="width:70%; padding-right: 20px;">
       <p>
-        I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
-        I am Technology & Startup Enthusiast<br>
-        I am interested in Web & App Development,<br>
-        Sports Programming, learning New Programming Languages,<br>
-        Techstacks, & New Technologies and seeking exciting<br>
+        • I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
+        • I am Technology & Startup Enthusiast<br>
+        • I am interested in Development,
+         Sports Programming, learning New Programming Languages, Techstacks,
+        & New Technologies<br> and seeking exciting
         opportunities related to the same.<br>
-        I am also an Open-Source enthusiast.<br>
-        The skills that I have attained from the dynamic environment &<br>
+        • I am also an Open-Source enthusiast.<br>
+        • The skills that I have attained from the dynamic environment &<br>
         Competitive university life define me, and I am looking forward to<br>
         Implementing and polishing them in any opportunity that I receive.<br>
-        Feel free to go through my profile and approach me,<br>
+        • Feel free to go through my profile and approach me,<br>
         If you need any help, will be glad to help you...<br><br>
       </p>
     </td>
