@@ -25,9 +25,9 @@
           seeking exciting opportunities related to the same.<br>
         • I am also an Open-Source enthusiast.<br>
         • The skills that I have attained from the dynamic environment &<br>
-        Competitive university life define me, and I am looking forward to<br>
+        Competitive university life define me, and I am looking forward to
         Implementing and polishing them in any opportunity that I receive.<br>
-        • Feel free to go through my profile and approach me,<br>
+        • Feel free to go through my profile and approach me,
         If you need any help, will be glad to help you...<br><br>
       </p>
     </td>
