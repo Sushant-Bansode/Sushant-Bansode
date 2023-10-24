@@ -13,13 +13,12 @@
 <h2 align="center">I am Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h2>
 
 # 🌐 About Me:
-<table style="width:100%">
+<table style="width:100%; display: flex; align-items: center; justify-content: space-between;">
   <tr>
-    <td style="width:50%;">
+    <td style="width:70%; padding-right: 20px;">
       <p>
-      I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
-        I am Technology & Startup Enthusiast, and Usually Find Myself<br>
-        Excited to learn new things related to Technology & Programming.<br>
+        I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
+        I am Technology & Startup Enthusiast<br>
         I am interested in Web & App Development,<br>
         Sports Programming, learning New Programming Languages,<br>
         Techstacks, & New Technologies and seeking exciting<br>
@@ -32,13 +31,12 @@
         If you need any help, will be glad to help you...<br><br>
       </p>
     </td>
-    <td style="width:50%; text-align:center;">
-      <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" alt="GIF" style="width:100%">
+    <td style="width:30%;">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="GIF" style="width:100%">
     </td>
       
   </tr>
 </table>
-
 
 # 🌐 Socials:
 <p style="display: flex; justify-content: center; gap: 20px;">
