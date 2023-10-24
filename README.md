@@ -20,9 +20,9 @@
         • I am Currently Pursuing My B.Tech in Computer Science Engineering.<br>
         • I am Technology & Startup Enthusiast<br>
         • I am interested in Development,
-         Sports Programming, learning New Programming Languages, Techstacks,
-        & New Technologies and seeking exciting
-        opportunities related to the same.<br>
+          Sports Programming, learning New Programming<br>
+          Languages, Techstacks, & New Technologies and <br>
+          seeking exciting opportunities related to the same.<br>
         • I am also an Open-Source enthusiast.<br>
         • The skills that I have attained from the dynamic environment &<br>
         Competitive university life define me, and I am looking forward to<br>
