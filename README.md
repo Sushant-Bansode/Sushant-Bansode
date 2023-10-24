@@ -1,13 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sushant Bansode</h1>
+<h1 align="center">Hello World, 👋 I'm Sushant Bansode</h1>
 <h3 align="center">Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development and DSA.**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushantbansode) 
+# 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sushantbansode) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+<table align="center">
+<tr>
+<td>Language</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</a> 
+</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>CSS Frameworks</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img height="50rem" src=chakra.jpg/>
+    <img height="50rem" src=daisy.png/>
+  </a>
+ </td>
+</tr>
+<tr>
+<td>Frontend Framework</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=react,angular" />
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td>Backend Framework</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img height="50rem" src = './zod.svg'/>
+   </a>
+</td>
+</tr>
+
+<td>Database</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+   </a>
+</td>
+</tr>
+
+<tr>
+<td>Hosting</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws,heroku" />
+  </a>
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td> <a href="https://github.com/Sushant-Bansode" >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,replit,stackoverflow,postman" />
+  </a>
+</td>
+</tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushant-Bansode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Bansode&theme=dark&hide_border=false)<br/>
