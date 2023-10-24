@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, 👋 I'm Sushant Bansode</h1>
+if<h1 align="center">Hello World, 👋 I'm Sushant Bansode</h1>
 <h3 align="center">Full Stack Web Developer, Problem Solver & A TECH-GEEK.</h3>
 
 # 🌐 Socials:
@@ -26,8 +26,6 @@
 <td>CSS Frameworks</td>
 <td> <a href="https://github.com/Sushant-Bansode" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-    <img height="50rem" src=chakra.jpg/>
-    <img height="50rem" src=daisy.png/>
   </a>
  </td>
 </tr>
@@ -43,7 +41,6 @@
 <td>Backend Framework</td>
 <td> <a href="https://github.com/Sushant-Bansode" >
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    <img height="50rem" src = './zod.svg'/>
    </a>
 </td>
 </tr>
@@ -58,7 +55,7 @@
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Sushant-Bansode" >
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws,heroku" />
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws,heroku,netlify" />
   </a>
 </td>
 </tr>
